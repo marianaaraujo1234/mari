@@ -9,7 +9,8 @@
     <main>
         <div>
             <p>Um dia desses, dentro de um livro da biblioteca da escola, eu descobri uma carta antiga sobre uma cidade perdida, escondida por riquezas e belezas naturais. Nessa carta, a autora deixa algumas pistas para encontrar essa cidade e eu decidi segui-las!
-                <button class="btn-proximo">Rio de janeiro</button>
+                <button class="btn-proximo" data-proximo="1">Rio de janeiro</button>
+                <button class="btn-proximo" data-proximo="1">pernambuco</button>
             </p>
         </div>
     </main>
